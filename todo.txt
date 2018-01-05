@@ -1,10 +1,13 @@
-Git Accounts
-Webspace mit Python
+done - Git Accounts
+done - Webspace mit Python
 Datenbank
+
 Login Script
+  - simples user pw in datenbank
 
 Logs
-  - alles loggen irgendwie
+  - user login zeiten loggen
+  - anfangen alles zu loggen
 
 Auswahl von mechanics
   - ressourcen sammeln auf Zeit ( 5 min Sammeln = 1 Holz ) 
@@ -28,9 +31,3 @@ Bugtracker
   - Github?
   - Formula
   - Forum
-
-  
-Teständerung
-alles anders
-
-Hinzugefügt und das soll ein neuer Branch werden da ick hier wat kaputt gemacht habe
