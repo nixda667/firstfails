@@ -32,3 +32,5 @@ Bugtracker
   
 Teständerung
 alles anders
+
+Hinzugefügt und das soll ein neuer Branch werden da ick hier wat kaputt gemacht habe
