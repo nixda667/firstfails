@@ -1,0 +1,32 @@
+Git Accounts
+Webspace mit Python
+Datenbank
+Login Script
+
+Logs
+  - alles loggen irgendwie
+
+Auswahl von mechanics
+  - ressourcen sammeln auf Zeit ( 5 min Sammeln = 1 Holz ) 
+  - kontinuierlicher counter ( z.B. Eisenmine )
+  - Mine ausbauen mechanic und damit mehr ressourcen pro Zeit generieren
+  - Einheit bauen durch ressourcen verbrauch / statisch und kontinuierlich
+
+Multiplayer System
+  - Gegner scannen / User 1 kann auf Daten von User 2 zugreifen irgendwie
+  - Kampfsystem / 1 gegen 1 Entscheidung durch Zufallszahl
+  - Mailsystem zwischen Usern
+  - Punktesystem
+  
+Admin System
+  - alle Userdaten sichbar
+  - Daten veränderbar
+  - Daten zurücksetzen
+
+Bugtracker
+  - Spielern die Möglichkeit geben Bugs zu kommunizieren
+  - Github?
+  - Formula
+  - Forum
+
+  
